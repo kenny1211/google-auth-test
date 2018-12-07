@@ -24,3 +24,5 @@ passport.use(
  )
 );
 
+// 262420665581-95e45bb03g0v50ab3p9ftt1rp320ma0i.apps.googleusercontent.com CLIENT_ID
+// 6wcEw1JKJJOsO4LnVmzU4cXa CLIENT_SECRET
